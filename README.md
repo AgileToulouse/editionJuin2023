@@ -1,4 +1,4 @@
-# editionJuin2023
+# 1er et 2 Juin 2022 à la Grainerie (Balma)
 # Call for Paper
 
 Bienvenue sur le Call for Paper de la Summer Edition d'Agile Toulouse 2023
