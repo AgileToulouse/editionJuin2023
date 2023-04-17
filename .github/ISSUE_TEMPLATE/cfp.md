@@ -23,7 +23,14 @@ N'hésitez pas à intégrer un lien vers vos slides, vers les sites d'autres év
 
 ### Informations diverses
 
-* Sujet: choisir une option parmi les *labels* , à droite de ce bloc de texte 
+* Sujet: 
+    - [ ] craft/qualité
+    - [ ] coder/tester/deployer
+    - [ ] éthique
+    - [ ] équipes / RH
+    - [ ] Product Owners / PM
+    - [ ] REX
+    - [ ] alien
 * Niveau de difficulté :  
     -   [ ] débutant
     -   [ ] confirmé
@@ -33,7 +40,10 @@ N'hésitez pas à intégrer un lien vers vos slides, vers les sites d'autres év
     -   [ ] 45 mn
     -   [ ] 90 mn (atelier)
 * Format : { slides, live-coding, atelier, les deux, jeux ...  }
-* Disponibilités : { choisir le milestone qui correspond au(x) jour(s) de votre choix, à droite de ce bloc de texte }
+* Disponibilités :
+    -   [ ] jeudi 1er Juin
+    -   [ ] vendredi 2 Juin
+
 
 ### Règles de courtoisie
 
