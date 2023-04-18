@@ -6,7 +6,8 @@ Les 1 et 2 juin, chaque participant(e) pourra proposer un sujet sur la place du 
 
 Envie de tester la popularité de votre sujet en amont et tranquillement, d'améliorer son pitch ? Ce GitHub est fait pour vous. 
 
-📋 [Proposez un Sujet en cliquant ici](https://github.com/AgileToulouse/editionJuin2023/issues/new?template=cfp.md) .
+📋 [Pré-posez un Sujet en cliquant ici](https://github.com/AgileToulouse/editionJuin2023/issues/new?template=cfp.md) en respectant le template.
+
  Osez, vous y prendrez goût !
 
 👍 [Votez pour les sujets proposés](https://github.com/AgileToulouse/editionJuin2023/issues) en utilisant 👍 et 👎
