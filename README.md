@@ -10,7 +10,7 @@ Envie de tester la popularité de votre sujet en amont et tranquillement, d'amé
 
  Osez, vous y prendrez goût !
 
-👍 [Votez pour les sujets proposés](https://github.com/AgileToulouse/editionJuin2023/issues) en utilisant 👍 et 👎
+👍 [Cliquez ici et  votez pour les sujets proposés](https://github.com/AgileToulouse/editionJuin2023/issues) en utilisant 👍 et 👎
 
 🌐 [Repo github](https://github.com/AgileToulouse/editionJuin2023/)
 | 🗺️ [Groupe Meetup](https://www.meetup.com/fr-FR/agile-toulouse/)
