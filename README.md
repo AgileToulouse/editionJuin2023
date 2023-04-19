@@ -16,6 +16,7 @@ Et juste donner envie à encore plus de monde de vous rejoindre!
 
 
 Envie de tester la popularité de votre sujet en amont et tranquillement, d'améliorer son pitch ? Ce GitHub est fait pour vous. 
+
 🤌 Osez, vous y prendrez goût !
 
 👀 [Cliquez ici et  votez pour les sujets proposés](https://github.com/AgileToulouse/editionJuin2023/issues) en utilisant 👍 et 👎
