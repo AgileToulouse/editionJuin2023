@@ -2,7 +2,8 @@
 ## 1er et 2 Juin 2022 à la Grainerie (Balma)
 
 C'est tout nouveau à Agile Tour Toulouse.
-Le format: les 1 et 2 juin, chaque participant(e) pourra proposer un sujet sur la place du marché  de l'[OpenForum](https://fr.wikipedia.org/wiki/M%C3%A9thodologie_Forum_Ouvert) qui aura lieu sur les 2 jours.
+Le format: les 1 et 2 juin, deux jours où 
+chaque participant(e) pourra proposer un sujet sur la place du marché  de l'[OpenForum](https://fr.wikipedia.org/wiki/M%C3%A9thodologie_Forum_Ouvert) qui aura lieu sur les 2 jours.
 
 📍Billetterie : https://www.billetweb.fr/agile-tour-toulouse-2023
 Il y aura aussi durant les 2 jours: les repas + 💥 une soirée (repas, boissons incluses aussi) 🆕
